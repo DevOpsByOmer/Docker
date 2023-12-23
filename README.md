@@ -4,7 +4,7 @@ Welcome to the Emart Web Application repository! This project utilizes Docker an
 
 ## Application Architecture
 
-![Application Architecture](./docs/Architecture.png)
+![Application Architecture](https://raw.githubusercontent.com/DevOpsByOmer/Docker/Emart-webApp/docs/Architechure.png)
 
 The diagram above illustrates the architecture of the Emart Web Application. Key components include:
 
